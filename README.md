@@ -1,4 +1,4 @@
-# map
+# Map in c
 A type-safe generic hashmap implementation for C.
 
 ## Installation 
